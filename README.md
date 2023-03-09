@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estou desenvolvendo conhecimentos envolvendo o front-end
 - 🌱 Estudando Javascript
 - 📫 Contate-me através do e-mail :lucasvianabastos@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Lucasvbastos">
@@ -27,7 +26,6 @@ Here are some ideas to get you started:
 <div> 
 
   <a href="https://instagram.com/lucasv.bastos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/BkYuTAWd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasvianabastos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-viana-bastos-877bb5159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
