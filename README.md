@@ -1,4 +1,4 @@
-### Olá, meu nome é Lucas Viana Bastos, engenheiro, pós-graduando em sistemas de informação e desenvolvimento de sistemas com java, e cursando desenvolvimento full stack java. 👋
+### Olá👋, meu nome é Lucas Viana Bastos, engenheiro, pós-graduando em sistemas de informação e desenvolvimento de sistemas com java, e cursando desenvolvimento full stack java. 
 
 
 **Lucasvbastos/Lucasvbastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
