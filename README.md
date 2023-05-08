@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Atualmente estou desenvolvendo conhecimentos envolvendo o front-end
-- 🌱 Estudando JQuery
+- 🌱 Estudando Bootstrap
 - 📫 Contate-me através do e-mail :lucasvianabastos@gmail.com
 
 <div align="center">
